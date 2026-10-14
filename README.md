@@ -34,7 +34,7 @@
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Power%20BI/dashboard_preview.png)
+![Power BI Dashboard](Power%20BI/dashboard_preview.pdf)
 
 ## Основные выводы
 
