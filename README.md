@@ -1,6 +1,6 @@
 
 # Customer Basket Analysis
-
+![Power BI Dashboard](Power%20BI/dashboard_preview.png)
 ## Цель проекта
 
 Компания хочет повысить эффективность e-commerce воронки. Один из ключевых этапов это добавление товара в корзину.
