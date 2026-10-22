@@ -32,10 +32,6 @@
 
 Для открытия дашборда необходим Power BI Desktop. Jupyter Notebook можно просмотреть непосредственно на GitHub.
 
-## Dashboard Preview
-
-![Power BI Dashboard](Power%20BI/dashboard_preview.pdf)
-
 ## Основные выводы
 
 Пол, возраст и срок взаимодействия с сервисом практически не связаны с активностью корзины.
